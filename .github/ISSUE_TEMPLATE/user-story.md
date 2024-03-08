@@ -1,11 +1,3 @@
----
-name: User story
-about: Create a user story for the capstone
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a** [role]  
 **I need** [function]  
